@@ -1,1 +1,3 @@
-# rails_api_sortable
+# RailsApiSortable
+
+This project rocks and uses MIT-LICENSE.

@@ -16,7 +16,7 @@ And then execute:
 
 Or install it yourself as:
 
-    $ gem install 'rails_api_filters', git: 'git@cagit.careerbuilder.com:zwelch/rails_api_sortable.git'
+    $ gem install 'rails_api_sortable', git: 'git@cagit.careerbuilder.com:zwelch/rails_api_sortable.git'
 
 ## Usage
 

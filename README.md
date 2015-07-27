@@ -1,4 +1,4 @@
-# rails_api_sortable
+# RailsApiSortable
 
 Sorting behavior for Rails APIs
 
